@@ -10,7 +10,8 @@ body{
 }
 
 .banner-image{
-    width:98.9vw;
+    padding-top: 2em;
+    width:100%;
     height: 70vh; 
 }
 .card-img-top{
