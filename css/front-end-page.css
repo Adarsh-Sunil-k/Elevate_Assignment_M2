@@ -32,6 +32,7 @@ body{
     height:35rem !important;
     display: flex !important;
     justify-content:center!important;
+    padding:2px;
 }
 
 .footer{
